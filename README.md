@@ -45,12 +45,11 @@ Tools 🛠️
 [![HTB](    https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white           )](https://www.hackthebox.com/)
 
 
-
 My Specs 💻
 -----------
 
 ![Desktop](https://img.shields.io/badge/Custom-Desktop-333333?style=for-the-badge&logo=pcgamingwiki&logoColor=white&labelColor=FF2299)
-[![CPU](https://img.shields.io/badge/Intel-i710700KF?logo=intel&logoColor=fff&style=for-the-badge)](https://www.intel.la/content/www/xl/es/products/sku/199325/intel-core-i710700kf-processor-16m-cache-up-to-5-10-ghz/specifications.html)
+[![CPU](https://img.shields.io/badge/Intel-i710700KF?logo=intel&logoColor=00ffff&style=for-the-badge)](https://www.intel.la/content/www/xl/es/products/sku/199325/intel-core-i710700kf-processor-16m-cache-up-to-5-10-ghz/specifications.html)
 [![GPU](https://img.shields.io/badge/NVIDIA-3070_TI?logo=nvidia&logoColor=fff&style=for-the-badge)](https://www.nvidia.com/es-es/geforce/graphics-cards/30-series/rtx-3070-3070ti/)
 
 Get in Touch 📡

@@ -56,7 +56,7 @@ Get in Touch 📡
 ---------------
 
 [![Discord](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0%E2%81%A0%20%E2%81%A0ka0xx%E2%81%A0%20%E2%81%A0%20-333333?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/channels/@me)
-[![Instagram](https://img.shields.io/badge/-@jesus%95anndres__-333333?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/jesus_anndres)\
+[![Instagram](https://img.shields.io/badge/-@jesus__anndres__-333333?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/jesus_anndres)\
 [![Twitter](https://img.shields.io/badge/-@imKaoXx__-333333?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/imKaoXx)\
 
 

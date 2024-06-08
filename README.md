@@ -49,15 +49,15 @@ My Specs 💻
 -----------
 
 ![Desktop](https://img.shields.io/badge/Custom-Desktop-333333?style=for-the-badge&logo=pcgamingwiki&logoColor=white&labelColor=FF2299)
-[![CPU](https://img.shields.io/badge/Intel-0071C5?logo=intel&logoColor=fff&style=for-the-badge)](https://www.intel.la/content/www/xl/es/products/sku/199325/intel-core-i710700kf-processor-16m-cache-up-to-5-10-ghz/specifications.html)
-[![GPU](https://img.shields.io/badge/NVIDIA-3070_TI?logo=nvidia&logoColor=fff&style=for-the-badge)](https://www.nvidia.com/es-es/geforce/graphics-cards/30-series/rtx-3070-3070ti/)
+[![CPU](https://img.shields.io/badge/i7_10700KF-0071C5?logo=intel&logoColor=fff&style=for-the-badge)](https://www.intel.la/content/www/xl/es/products/sku/199325/intel-core-i710700kf-processor-16m-cache-up-to-5-10-ghz/specifications.html)
+[![GPU](https://img.shields.io/badge/3070_TI-76B900?logo=nvidia&logoColor=fff&style=for-the-badge)](https://www.nvidia.com/es-es/geforce/graphics-cards/30-series/rtx-3070-3070ti/)
 
 Get in Touch 📡
 ---------------
 
 [![Discord](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0%E2%81%A0%20%E2%81%A0ka0xx%E2%81%A0%20%E2%81%A0%20-333333?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/channels/@me)
 [![Instagram](https://img.shields.io/badge/-@jesus__anndres-333333?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/jesus_anndres)\
-[![Twitter](https://img.shields.io/badge/-@imKaoXx__-333333?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/imKaoXx)\
+[![Twitter](https://img.shields.io/badge/imKaoXx-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/imKaoXx)
 
 
 
